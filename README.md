@@ -1,6 +1,6 @@
-### ✨
-##### You mustn't be afraid to dream bigger,darling.
-##### 做梦就做大些啦！
+#### You mustn't be afraid to dream bigger,darling.
+#### 做梦就做大些啦！✨
+
  ![](https://visitor-badge.glitch.me/badge?page_id=pepsinotjelly.pepsinotjelly)
 <!--
 **pepsinotjelly/pepsinotjelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
